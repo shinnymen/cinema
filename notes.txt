@@ -1,0 +1,3 @@
+HTTPS sur mobile
+aller sur le lien: chrome://inspect/#devices
+Entrer dans l'URL de l'emulateur.
